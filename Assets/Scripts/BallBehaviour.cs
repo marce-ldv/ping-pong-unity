@@ -7,12 +7,6 @@ public class BallBehaviour : MonoBehaviour
     public Transform paddle;
     private bool gameStarted = false;
     public Rigidbody2D rbBall;
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
